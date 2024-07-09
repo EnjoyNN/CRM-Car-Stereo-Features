@@ -1,0 +1,27 @@
+D:\Projects\Prj_VS_15_Comm\WinFormsApp_FilterMySQL\WinFormsApp_FilterMySQL\bin\Debug\WinFormsApp_FilterMySQL.exe.config
+D:\Projects\Prj_VS_15_Comm\WinFormsApp_FilterMySQL\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.csprojResolveAssemblyReference.cache
+D:\Projects\Prj_VS_15_Comm\WinFormsApp_FilterMySQL\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.Properties.Resources.resources
+D:\Projects\Prj_VS_15_Comm\WinFormsApp_FilterMySQL\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.csproj.GenerateResource.Cache
+D:\Projects\Prj_VS_15_Comm\WinFormsApp_FilterMySQL\WinFormsApp_FilterMySQL\bin\Debug\WinFormsApp_FilterMySQL.exe
+D:\Projects\Prj_VS_15_Comm\WinFormsApp_FilterMySQL\WinFormsApp_FilterMySQL\bin\Debug\WinFormsApp_FilterMySQL.pdb
+D:\Projects\Prj_VS_15_Comm\WinFormsApp_FilterMySQL\WinFormsApp_FilterMySQL\bin\Debug\MySql.Data.dll
+D:\Projects\Prj_VS_15_Comm\WinFormsApp_FilterMySQL\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.exe
+D:\Projects\Prj_VS_15_Comm\WinFormsApp_FilterMySQL\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.pdb
+D:\Projects\Prj_VS_15_Comm\WinFormsApp_FilterMySQL\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.main_Form.resources
+C:\Users\Nikit\Desktop\Новая папка\WinFormsApp_FilterMySQL\bin\Debug\WinFormsApp_FilterMySQL.exe.config
+C:\Users\Nikit\Desktop\Новая папка\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.exe
+C:\Users\Nikit\Desktop\Новая папка\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.pdb
+C:\Users\Nikit\Desktop\резанов\WinFormsApp_FilterMySQL\bin\Debug\WinFormsApp_FilterMySQL.exe.config
+C:\Users\Nikit\Desktop\резанов\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.exe
+C:\Users\Nikit\Desktop\резанов\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.pdb
+C:\Users\Nikit\Desktop\резанов\WinFormsApp_FilterMySQL\bin\Debug\WinFormsApp_FilterMySQL.exe
+C:\Users\Nikit\Desktop\резанов\WinFormsApp_FilterMySQL\bin\Debug\WinFormsApp_FilterMySQL.pdb
+C:\Users\Nikit\Desktop\резанов\WinFormsApp_FilterMySQL\bin\Debug\MySql.Data.dll
+C:\Users\Nikit\Desktop\резанов\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.csprojResolveAssemblyReference.cache
+C:\Users\Nikit\Desktop\резанов\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.main_Form.resources
+C:\Users\Nikit\Desktop\резанов\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.Properties.Resources.resources
+C:\Users\Nikit\Desktop\резанов\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.csproj.GenerateResource.Cache
+C:\Users\Nikit\Desktop\резанов\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.FormMain.resources
+C:\Users\Nikit\Desktop\резанов\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.Form_AboutProgram.resources
+C:\Users\Nikit\Desktop\резанов\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.Form_Authorize.resources
+C:\Users\Nikit\Desktop\резанов\WinFormsApp_FilterMySQL\obj\Debug\WinFormsApp_FilterMySQL.Form_Register.resources
